@@ -3,9 +3,9 @@ import Image from 'next/image'
 import {Box, LinkBox, Text} from '@chakra-ui/react'
 import {Global} from '@emotion/react'
 
-export const SkillGridItem = ({children, id, title, thumbnail}) => (
+export const CardGridItem = ({children, title, thumbnail, href}) => (
     <Box w="100%" textAlign="center">
-        <NextLink href={`/skills/${id}`}>
+        <NextLink href={href}>
             <LinkBox cursor="pointer">
                 <Image
                     src={thumbnail}

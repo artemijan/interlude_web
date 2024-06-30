@@ -4,7 +4,7 @@ import {ChevronRightIcon} from '@chakra-ui/icons'
 
 export const Title = ({children}) => (
     <Box>
-        <Link href="/skills" as={NextLink}>Skills</Link>
+        <Link href="/about" as={NextLink}>About</Link>
         <span>
       {' '}
             <ChevronRightIcon/>{' '}
@@ -15,7 +15,7 @@ export const Title = ({children}) => (
     </Box>
 )
 
-export const SkillImage = ({src, alt}) => (
+export const CardImage = ({src, alt}) => (
     <Image borderRadius="lg" w="full" src={src} alt={alt} mb={4}/>
 )
 

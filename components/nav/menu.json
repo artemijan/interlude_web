@@ -8,16 +8,18 @@
       "mobileOnly": true
     },
     {
-      "title": "About the server",
-      "href": "/skills",
+      "title": "About",
+      "href": "/about",
       "isExternal": false,
-      "showLogoGit": false
+      "showLogoGit": false,
+      "mobileOnly": false
     },
     {
       "title": "Downloads",
       "href": "/downloads",
       "isExternal": false,
-      "showLogoGit": false
+      "showLogoGit": false,
+      "mobileOnly": false
     }
   ]
 }

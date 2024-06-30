@@ -25,7 +25,8 @@ const Greeting = () => (
                 <Heading as="h2" variant="page-title">
                     Interlude Classic
                 </Heading>
-                <div>Written in JAVA (22)</div>
+                <p>Java version: 22</p>
+                <p>Server status: Beta</p>
             </Box>
             <Box
                 flexShrink={0}
