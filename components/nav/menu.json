@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "title": "Home",
+      "href": "/",
+      "isExternal": false,
+      "showLogoGit": false,
+      "mobileOnly": true
+    },
+    {
+      "title": "About the server",
+      "href": "/skills",
+      "isExternal": false,
+      "showLogoGit": false
+    },
+    {
+      "title": "Downloads",
+      "href": "/downloads",
+      "isExternal": false,
+      "showLogoGit": false
+    }
+  ]
+}
