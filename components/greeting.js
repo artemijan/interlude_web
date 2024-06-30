@@ -35,12 +35,11 @@ const Greeting = () => (
             >
                 <Image
                     borderColor="whiteAlpha.800"
-                    borderWidth={2}
-                    borderStyle="solid"
-                    maxWidth="100px"
+                    borderWidth={1}
+                    maxWidth="250px"
                     display="inline-block"
                     borderRadius="full"
-                    src="/images/artem.webp"
+                    src="/images/martial-logo.png"
                     alt="Profile image"
                 />
             </Box>
