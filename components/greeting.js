@@ -14,7 +14,7 @@ const Greeting = () => (
         >
             <p>
                 This Interlude Classic server, it is still in development but most of the features work,
-                please fill free to report any bugs or issues. I maintain it in my spear time, so don't expect
+                please fill free to report any bugs or issues. I maintain it in my spear time, so don&apos;t expect
                 quick responses or fixes.
             </p>
             <p>
