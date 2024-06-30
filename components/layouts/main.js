@@ -13,10 +13,10 @@ const Main = ({children, router}) => {
                 <link rel="apple-touch-icon" href="/images/icons/apple-touch-icon.png"/>
                 <link rel="shortcut icon" href="/images/icons/favicon.ico" type="image/x-icon"/>
                 <meta name="twitter:card" content="summary_large_image"/>
-                <meta name="twitter:image" content="/images/contents/card.png"/>
+                <meta name="twitter:image" content="/images/contents/card.webp"/>
                 <meta property="og:site_name" content="Interlude Classic"/>
                 <meta property="og:type" content="website"/>
-                <meta property="og:image" content="/images/contents/card.png"/>
+                <meta property="og:image" content="/images/contents/card.webp"/>
                 <title>Interlude Classic</title>
             </Head>
 
